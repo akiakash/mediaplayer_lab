@@ -1,0 +1,2 @@
+rootProject.name = "it20072742 - mediaplayer"
+include ':app'
